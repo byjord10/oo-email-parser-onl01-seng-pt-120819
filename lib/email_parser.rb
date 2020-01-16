@@ -8,8 +8,4 @@ class EmailAddressParser
   def initialize(emails)
     @emails = emails
   end
-
-  def 
-
-
-end
+end 
