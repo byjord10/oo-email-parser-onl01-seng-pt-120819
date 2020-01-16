@@ -11,5 +11,5 @@ class EmailAddressParser
 
   def parse
     self.emails.split(",").map {|e| e("")}.flatten.uniq
-  end 
+  end
 end
